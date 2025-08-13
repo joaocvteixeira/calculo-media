@@ -1,10 +1,10 @@
 **Atividade:** Crie uma função que leia dois números e retorne a média entre eles. Logo após, utilizar a função e exibir na tela o resultado dela.
 
-- **Unidade:** UNAMA - Alcindo Cacela  
-- **Turno:** Manhã  
-- **Docente:** Samara Souza  
+- **Curso:** Ciência da Computação
+- **Universidade:** UNAMA
 - **Disciplina:** Programação Orientada a Objeto  
-- **Data da Aula:** 31 de Julho de 2025  
-- **Aluno:** João Carlos Viana Teixeira
+- **Aluno:** João Carlos Viana Teixeira  
+- **Docente:** Samara Souza  
+- **Data da Aula:** 31 de Julho de 2025
 
 _Repositório criado com o intuito de registrar a execução da atividade._
