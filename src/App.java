@@ -8,14 +8,14 @@ public class App {
     }
 
     public static void main(String[] args) throws Exception {
-        int nota1;
+        double nota1;
         Scanner ler = new Scanner(System.in);
         System.out.println("Digite a nota da primeira avaliação do aluno: ");
-        nota1 = ler.nextInt();
+        nota1 = ler.nextDouble();
 
-        int nota2;
+        double nota2;
         System.out.println("Digite a nota da segunda avaliação do aluno: ");
-        nota2 = ler.nextInt();
+        nota2 = ler.nextDouble();
 
         double notaDoAluno = calculoDeMedia(nota1, nota2);
         System.out.println("A média das notas de João é de " + notaDoAluno + " Pontos");
